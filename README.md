@@ -1,6 +1,3 @@
-Sure, here's a README.md file for your Spring Security demo:
-
-```markdown
 # Spring Security Demo
 
 This is a basic Spring Boot application demonstrating authentication and authorization using Spring Security.
